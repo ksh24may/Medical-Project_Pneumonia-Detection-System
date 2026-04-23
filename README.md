@@ -30,10 +30,13 @@ This project is an AI-based Pneumonia Detection System that analyzes chest X-ray
    - **Normal**  
 
 ---
-
 ## 📊 Sample Output
+
 - **Input:** Chest X-ray Image  
 - **Output:** Pneumonia / Normal Prediction  
+
+![Sample Output](output.png)
+ 
 
 ---
 
